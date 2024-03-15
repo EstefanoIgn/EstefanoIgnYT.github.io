@@ -232,9 +232,6 @@ body{
         position: relative;
     }
 
-    .nav__illustration{
-        margin-right: 10px;
-    }
     .nav__inner{
         height: auto;
         position: absolute;
