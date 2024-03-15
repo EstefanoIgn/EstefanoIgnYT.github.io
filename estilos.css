@@ -104,6 +104,10 @@ body{
     transition: height .4s;
 
 }
+
+.nav__illustration{
+    margin-right: 10px;
+}
 .nav__link{
     text-decoration: none;
     color: var(--almost-black);
